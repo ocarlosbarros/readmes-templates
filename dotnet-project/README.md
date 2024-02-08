@@ -33,7 +33,14 @@
 
 #   :point_right: About project
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nunc non vehicula dignissim. Duis id leo mauris. Pellentesque molestie facilisis nunc, nec scelerisque est congue a. 
+
+<p align="right"><a href="#[PROJECT NAME]">back to top</a></p>
+
 ##  :heavy_check_mark: Features 
+
+
+<p align="right"><a href="#trybewallet">back to top</a></p>
 
 ##  :camera: Screenshots 
 
@@ -70,7 +77,6 @@ To run tests, run the following command
 Project Name is [LICENSE TYPE] Licensed. See ```LICENSE.md``` for more information.
 
 <br/>
-
 
 # :octocat: Developers 
 
