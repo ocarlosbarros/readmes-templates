@@ -3,12 +3,13 @@ TO USE THIS TEMPLATE JUST CHANGE ALL VARIABLES BELOW
 
 [GITHUB_USER]
 [PROJECT_NAME]
+project_name
 [PATH_IMAGE]
 [VERSION]
 [NUGET_PACKAGE_NAME]
 [URL_TO_CLONE_PROJECT]
 [PROJECT_FOLDER]
-[GITHUB_PROFILE_CODE]
+[IMAGE_ADDRESS_GITHUB_PROFILE]
 [LINKEDIN_USER]
 [YOUR_EMAIL]
 [YOUTUBE_CHANNEL_ID]
@@ -137,7 +138,7 @@ Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more informati
 <a href="https://[GITHUB_USER].github.io" target="_blank">
  <div>
     [GITHUB_PROFILE_IMAGE]
-    <img style="border-radius: 50%;" src="https://[GITHUB_USER].github.io/assets/[GITHUB_PROFILE_CODE].png" width="100px;" alt=""/>
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/[IMAGE_ADDRESS_GITHUB_PROFILE]" width="100px;" alt=""/>
     <br />
     <p style="margin-left:10px"><b>[YOUR_NAME]</b></p>
  </div>
