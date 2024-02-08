@@ -67,7 +67,7 @@ To run tests, run the following command
 
 #   :page_facing_up: License 
 
-Project Name is [LICENSE TIPE] Licensed. See ```LICENSE.md``` for more information.
+Project Name is [LICENSE TYPE] Licensed. See ```LICENSE.md``` for more information.
 
 <br/>
 
