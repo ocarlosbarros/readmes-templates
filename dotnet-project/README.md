@@ -1,10 +1,26 @@
+<!-- 
+TO USE THIS TEMPLATE JUST CHANGE ALL VARIABLES BELOW
+
+[GITHUB_USER]
+[PROJECT_NAME]
+[PATH_IMAGE]
+[VERSION]
+[NUGET_PACKAGE_NAME]
+[GITHUB_PROFILE_CODE]
+[LINKEDIN_USER]
+[YOUR_EMAIL]
+[YOUTUBE_CHANNEL_ID]
+[YOUR_NAME]
+
+-->
+
 <div align="center">
 
 # [PROJECT_NAME]
 
 <!-- CHANGE [GITHUB_USER] AND [PROJECT_NAME] IN ALL LINK LOCATION -->
 
-[![[GITHUB_USER] - [PROJECT_NAME]](https://img.shields.io/static/v1?label=[GITHUB_USER]&message=[PROJEC_TNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/[PROJECTNAME] "Go to GitHub repo")
+[![[GITHUB_USER] - [PROJECT_NAME]](https://img.shields.io/static/v1?label=[GITHUB_USER]&message=[PROJEC_TNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/[GITHUB_USER]/[PROJECT_NAME] "Go to GitHub repo")
 
 <!-- BADGES OF STATUS IN DEVELOPEMNT AND LICENSE MIT -->
 <img src="http://img.shields.io/static/v1?label=status&message=in%20development&color=2eac6f&style=for-the-badge"/>
@@ -12,9 +28,8 @@
 
 <!-- BELOW CHANGE THE PROJECT NAME AND THE PATH TO A LOCAL IMAGE REPRESENTING THE PROJECT PROJECT -->
 
-<!-- ![PROJECT_NAME](PATH_IMAGE) 
-    example: ![MY APP](./src/images/applicacao.png)
--->
+<!-- ![PROJECT_NAME]([PATH_IMAGE]) example: ![MY APP](./src/images/applicacao.png)--> 
+
 </div>
 
 # :clipboard: Table of Contents
@@ -56,9 +71,9 @@ This project was built with .NET Core [VERSION].
 
     <!-- FILL TECHS AND PACKAGES BELOW -->
     - .NET Core [VERSION]
-    - Entity Framework Core [VERSION]
-    - [NUGET_PACKAGE] [VERSION]
-    - [NUGET_PACKAGE] [VERSION]
+    - ASP.NET Core [VERSION]
+    - [NUGET_PACKAGE_NAME] [VERSION]
+    - [NUGET_PACKAGE_NAME] [VERSION]
 
 <p align="right"><a href="#project_name">back to top</a></p>
 
@@ -72,7 +87,6 @@ These instructions will allow you to get a copy of the project on your local mac
 
 <p align="right"><a href="#project_name">back to top</a></p>
 
-
 ##  :gear: Run Application
 
 <p align="right"><a href="#project_name">back to top</a></p>
@@ -82,7 +96,6 @@ These instructions will allow you to get a copy of the project on your local mac
 To run tests, run the following command
 
 <p align="right"><a href="#project_name">back to top</a></p>
-
 
 #   :page_facing_up: License 
 
@@ -95,10 +108,10 @@ Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more informati
 
 # :octocat: Developers 
 
-<a href="https://userGithub.github.io" target="_blank">
+<a href="https://[GITHUB_USER].github.io" target="_blank">
  <div>
     [GITHUB_PROFILE_IMAGE]
-    <img style="border-radius: 50%;" src="https://userGithub.github.io/assets/[PROFILE_CODE].png" width="100px;" alt=""/>
+    <img style="border-radius: 50%;" src="https://[GITHUB_USER].github.io/assets/[GITHUB_PROFILE_CODE].png" width="100px;" alt=""/>
     <br />
     <p style="margin-left:10px"><b>[YOUR_NAME]</b></p>
  </div>
@@ -109,9 +122,9 @@ Developed with 💜 by [YOUR_NAME]
 
 <div align="left">
 <a href="https://www.linkedin.com/in/[LINKEDIN_USER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:[YOUR-EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:[YOUR_EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/[INSTAGRAM_USER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/[CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/[YOUTUBE_CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 <p align="right"><a href="#project_name">back to top</a></p>
