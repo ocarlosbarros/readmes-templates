@@ -9,9 +9,6 @@
 <img src="http://img.shields.io/static/v1?label=status&message=in%20development&color=2eac6f&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=license&message=MIT&color=2eac6f&style=for-the-badge"/>
 
-<img src="http://img.shields.io/static/v1?label=status&message=in%20development&color=2eac6f&style=for-the-badge"/>
-<img src="http://img.shields.io/static/v1?label=license&message=MIT&color=2eac6f&style=for-the-badge"/>
-
 <!-- BELOW CHANGE THE PROJECT NAME AND THE PATH TO A LOCAL IMAGE REPRESENTING THE PROJECT PROJECT -->
 
 <!-- ![Project Name](./src/folder/image-name.extension) -->
