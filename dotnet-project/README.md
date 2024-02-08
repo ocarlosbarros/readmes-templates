@@ -4,7 +4,7 @@
 
 <!-- CHANGE [GITHUB_USER] AND [PROJECT_NAME] IN ALL LINK LOCATION -->
 
-[![[GITHUB_USER] - [PROJECTNAME]](https://img.shields.io/static/v1?label=[GITHUB_USER]&message=[PROJECTNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/[PROJECTNAME] "Go to GitHub repo")
+[![[GITHUB_USER] - [PROJECT_NAME]](https://img.shields.io/static/v1?label=[GITHUB_USER]&message=[PROJEC_TNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/[PROJECTNAME] "Go to GitHub repo")
 
 <!-- BADGES OF STATUS IN DEVELOPEMNT AND LICENSE MIT -->
 <img src="http://img.shields.io/static/v1?label=status&message=in%20development&color=2eac6f&style=for-the-badge"/>
@@ -12,7 +12,7 @@
 
 <!-- BELOW CHANGE THE PROJECT NAME AND THE PATH TO A LOCAL IMAGE REPRESENTING THE PROJECT PROJECT -->
 
-<!-- ![PROJECTNAME](PATH-PARA-IMAGEM) 
+<!-- ![PROJECT_NAME](PATH_IMAGE) 
     example: ![MY APP](./src/images/applicacao.png)
 -->
 </div>
@@ -57,8 +57,8 @@ This project was built with .NET Core [VERSION].
     <!-- FILL TECHS AND PACKAGES BELOW -->
     - .NET Core [VERSION]
     - Entity Framework Core [VERSION]
-    - [NUGET PACKAGE] [VERSION]
-    - [NUGET PACKAGE] [VERSION]
+    - [NUGET_PACKAGE] [VERSION]
+    - [NUGET_PACKAGE] [VERSION]
 
 <p align="right"><a href="#project_name">back to top</a></p>
 
@@ -86,7 +86,7 @@ To run tests, run the following command
 
 #   :page_facing_up: License 
 
-Project Name is [LICENSE TYPE] Licensed. See ```LICENSE.md``` for more information.
+Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more information.
 
 <br/>
 
@@ -97,21 +97,21 @@ Project Name is [LICENSE TYPE] Licensed. See ```LICENSE.md``` for more informati
 
 <a href="https://userGithub.github.io" target="_blank">
  <div>
-    [GITHUB PROFILE IMAGE]
-    <img style="border-radius: 50%;" src="https://userGithub.github.io/assets/profile-code-profile.png" width="100px;" alt=""/>
+    [GITHUB_PROFILE_IMAGE]
+    <img style="border-radius: 50%;" src="https://userGithub.github.io/assets/[PROFILE_CODE].png" width="100px;" alt=""/>
     <br />
-    <p style="margin-left:10px"><b>[Your Name]</b></p>
+    <p style="margin-left:10px"><b>[YOUR_NAME]</b></p>
  </div>
  </a> 
 
 
-Developed with 💜 by [YOUR NAME]
+Developed with 💜 by [YOUR_NAME]
 
 <div align="left">
-<a href="https://www.linkedin.com/in/[LINKEDINUSER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/[LINKEDIN_USER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:[YOUR-EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/[INSTAGRAMUSER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/[CHANNELID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/[INSTAGRAM_USER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/[CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 <p align="right"><a href="#project_name">back to top</a></p>
