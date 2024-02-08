@@ -137,7 +137,6 @@ Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more informati
 
 <a href="https://[GITHUB_USER].github.io" target="_blank">
  <div>
-    [GITHUB_PROFILE_IMAGE]
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/[IMAGE_ADDRESS_GITHUB_PROFILE]" width="100px;" alt=""/>
     <br />
     <p style="margin-left:10px"><b>[YOUR_NAME]</b></p>
