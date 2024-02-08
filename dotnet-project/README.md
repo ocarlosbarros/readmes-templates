@@ -1,9 +1,10 @@
 <div align="center">
 
-# ProjectName
+# [PROJECT NAME]
 
-<!-- CHANGE {githubUser} AND {projectName} IN ALL LINK LOCATION -->
-[![githubUser - projectName](https://img.shields.io/static/v1?label=githubUser&message=projectName&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/projectName "Go to GitHub repo")
+<!-- CHANGE [GITHUBUSER] AND [PROJECTNAME] IN ALL LINK LOCATION -->
+
+[![[GITHUBUSER] - [PROJECTNAME]](https://img.shields.io/static/v1?label=[GITHUBUSER]&message=[PROJECTNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/[PROJECTNAME] "Go to GitHub repo")
 
 <!-- BADGES OF STATUS IN DEVELOPEMNT AND LICENSE MIT -->
 <img src="http://img.shields.io/static/v1?label=status&message=in%20development&color=2eac6f&style=for-the-badge"/>
@@ -11,18 +12,85 @@
 
 <!-- BELOW CHANGE THE PROJECT NAME AND THE PATH TO A LOCAL IMAGE REPRESENTING THE PROJECT PROJECT -->
 
-<!-- ![Project Name](./src/folder/image-name.extension) -->
+<!-- ![PROJECTNAME](PATH-PARA-IMAGEM) 
+    example: ![MY APP](./src/images/applicacao.png)
+-->
 </div>
 
+# :clipboard: Table of Contents
+
+* [About Project](#point_right-about-project)
+    * [Features](#heavy_check_mark-features)
+    * [Screenshots](#camera-screenshots)
+* [Built With](#hammer_and_wrench-built-with)
+    * [Technologies and Libs](#computer-technologies-and-libs)
+* [Getting Started](#rocket-getting-started)
+    * [Requirements](#warning-requirements)
+    * [Run Application](#gear-run-application)
+* [Tests](#test_tube-tests)
+* [License](#page_facing_up-license)
+* [Developers](#octocat-developers)
+
+#   :point_right: About project
+
+##  :heavy_check_mark: Features 
+
+##  :camera: Screenshots 
+
+<!-- ends first block of content -->
+
+#   :hammer_and_wrench: Built with 
+
+This project was built with .NET Core [VERSION].
+
+* ##    :computer: Technologies and NuGet Packages 
+
+    <!-- FILL TECHS AND PACKAGES BELOW -->
+    - .NET Core [VERSION]
+    - Entity Framework Core [VERSION]
+    - [NUGET PACKAGE] [VERSION]
+    - [NUGET PACKAGE] [VERSION]
+
+<!-- ends second block of content -->
+
+#   :rocket: Getting Started 
+
+These instructions will allow you to get a copy of the project on your local machine for development and testing purposes.
+
+##  :warning: Requirements 
+
+##  :gear: Run Application
+
+##  :test_tube: Tests
+
+To run tests, run the following command
+
+#   :page_facing_up: License 
+
+Project Name is [LICENSE TIPE] Licensed. See ```LICENSE.md``` for more information.
+
+<br/>
 
 
-Developed with 💜 by {YourName}
+# :octocat: Developers 
+
+<a href="https://userGithub.github.io" target="_blank">
+ <div>
+    [GITHUB PROFILE IMAGE]
+    <img style="border-radius: 50%;" src="https://userGithub.github.io/assets/profile-code-profile.png" width="100px;" alt=""/>
+    <br />
+    <p style="margin-left:10px"><b>[Your Name]</b></p>
+ </div>
+ </a> 
+
+
+Developed with 💜 by [YOUR NAME]
 
 <div align="left">
-<a href="https://www.linkedin.com/in/linkedinUser" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:your_email@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/instagramUser/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/youtubeCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/[LINKEDINUSER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:[YOUR-EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/[INSTAGRAMUSER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/[CHANNELID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="right"><a href="#ProjectName">back to top</a></p>
+<p align="right"><a href="#[PROJECTNAME]">back to top</a></p>
