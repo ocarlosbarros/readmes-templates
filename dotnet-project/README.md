@@ -1,6 +1,6 @@
 <div align="center">
 
-# PROJECTNAME
+# [PROJECT_NAME]
 
 <!-- CHANGE [GITHUBUSER] AND [PROJECTNAME] IN ALL LINK LOCATION -->
 
@@ -35,7 +35,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nunc non vehicula dignissim. Duis id leo mauris. Pellentesque molestie facilisis nunc, nec scelerisque est congue a. 
 
-<p align="right"><a href="#projectname">back to top</a></p>
+<p align="right"><a href="#[project_name]">back to top</a></p>
 
 ##  :heavy_check_mark: Features 
 
