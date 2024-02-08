@@ -1,6 +1,6 @@
 <div align="center">
 
-# [PROJECT_NAME]
+# [PROJECT NAME]
 
 <!-- CHANGE [GITHUBUSER] AND [PROJECTNAME] IN ALL LINK LOCATION -->
 
