@@ -6,6 +6,8 @@ TO USE THIS TEMPLATE JUST CHANGE ALL VARIABLES BELOW
 [PATH_IMAGE]
 [VERSION]
 [NUGET_PACKAGE_NAME]
+[URL_TO_CLONE_PROJECT]
+[PROJECT_FOLDER]
 [GITHUB_PROFILE_CODE]
 [LINKEDIN_USER]
 [YOUR_EMAIL]
@@ -89,6 +91,30 @@ These instructions will allow you to get a copy of the project on your local mac
 
 ##  :gear: Run Application
 
+1. Clone project
+
+```
+git clone [URL_TO_CLONE_PROJECT]
+```
+
+2. Access project folder
+
+```
+cd [PROJECT_FOLDER]
+```
+
+3. Install dependencies
+
+```
+dotnet restore
+```
+
+4. Run project
+```
+dotnet run
+```
+
+
 <p align="right"><a href="#project_name">back to top</a></p>
 
 #  :test_tube: Tests
@@ -121,10 +147,10 @@ Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more informati
 Developed with 💜 by [YOUR_NAME]
 
 <div align="left">
-<a href="https://www.linkedin.com/in/[LINKEDIN_USER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:[YOUR_EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/[INSTAGRAM_USER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/[YOUTUBE_CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/[LINKEDIN_USER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:[YOUR_EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/[INSTAGRAM_USER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/[YOUTUBE_CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 <p align="right"><a href="#project_name">back to top</a></p>
