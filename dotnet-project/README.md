@@ -3,10 +3,13 @@ TO USE THIS TEMPLATE JUST CHANGE ALL VARIABLES BELOW
 
 [GITHUB_USER]
 [PROJECT_NAME]
+project_name
 [PATH_IMAGE]
 [VERSION]
 [NUGET_PACKAGE_NAME]
-[GITHUB_PROFILE_CODE]
+[URL_TO_CLONE_PROJECT]
+[PROJECT_FOLDER]
+[IMAGE_ADDRESS_GITHUB_PROFILE]
 [LINKEDIN_USER]
 [YOUR_EMAIL]
 [YOUTUBE_CHANNEL_ID]
@@ -89,6 +92,30 @@ These instructions will allow you to get a copy of the project on your local mac
 
 ##  :gear: Run Application
 
+1. Clone project
+
+```
+git clone [URL_TO_CLONE_PROJECT]
+```
+
+2. Access project folder
+
+```
+cd [PROJECT_FOLDER]
+```
+
+3. Install dependencies
+
+```
+dotnet restore
+```
+
+4. Run project
+```
+dotnet run
+```
+
+
 <p align="right"><a href="#project_name">back to top</a></p>
 
 #  :test_tube: Tests
@@ -111,7 +138,7 @@ Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more informati
 <a href="https://[GITHUB_USER].github.io" target="_blank">
  <div>
     [GITHUB_PROFILE_IMAGE]
-    <img style="border-radius: 50%;" src="https://[GITHUB_USER].github.io/assets/[GITHUB_PROFILE_CODE].png" width="100px;" alt=""/>
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/[IMAGE_ADDRESS_GITHUB_PROFILE]" width="100px;" alt=""/>
     <br />
     <p style="margin-left:10px"><b>[YOUR_NAME]</b></p>
  </div>
@@ -121,10 +148,10 @@ Project Name is [LICENSE_TYPE] Licensed. See ```LICENSE.md``` for more informati
 Developed with 💜 by [YOUR_NAME]
 
 <div align="left">
-<a href="https://www.linkedin.com/in/[LINKEDIN_USER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:[YOUR_EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/[INSTAGRAM_USER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/[YOUTUBE_CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/[LINKEDIN_USER]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:[YOUR_EMAIL]@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/[INSTAGRAM_USER]/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/[YOUTUBE_CHANNEL_ID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 <p align="right"><a href="#project_name">back to top</a></p>
