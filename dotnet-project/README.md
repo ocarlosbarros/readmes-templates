@@ -75,7 +75,7 @@ These instructions will allow you to get a copy of the project on your local mac
 
 <p align="right"><a href="#project_name">back to top</a></p>
 
-##  :test_tube: Tests
+#  :test_tube: Tests
 
 To run tests, run the following command
 
