@@ -1,10 +1,10 @@
 <div align="center">
 
-# [PROJECT NAME]
+# [PROJECT_NAME]
 
-<!-- CHANGE [GITHUBUSER] AND [PROJECTNAME] IN ALL LINK LOCATION -->
+<!-- CHANGE [GITHUB_USER] AND [PROJECT_NAME] IN ALL LINK LOCATION -->
 
-[![[GITHUBUSER] - [PROJECTNAME]](https://img.shields.io/static/v1?label=[GITHUBUSER]&message=[PROJECTNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/[PROJECTNAME] "Go to GitHub repo")
+[![[GITHUB_USER] - [PROJECTNAME]](https://img.shields.io/static/v1?label=[GITHUB_USER]&message=[PROJECTNAME]&color=2eac6f&style=for-the-badge&logo=github)](https://github.com/githubUser/[PROJECTNAME] "Go to GitHub repo")
 
 <!-- BADGES OF STATUS IN DEVELOPEMNT AND LICENSE MIT -->
 <img src="http://img.shields.io/static/v1?label=status&message=in%20development&color=2eac6f&style=for-the-badge"/>
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nunc non ve
 ##  :heavy_check_mark: Features 
 
 
-<p align="right"><a href="#trybewallet">back to top</a></p>
+<p align="right"><a href="#project_name">back to top</a></p>
 
 ##  :camera: Screenshots 
 
@@ -58,6 +58,8 @@ This project was built with .NET Core [VERSION].
     - [NUGET PACKAGE] [VERSION]
     - [NUGET PACKAGE] [VERSION]
 
+<p align="right"><a href="#project_name">back to top</a></p>
+
 <!-- ends second block of content -->
 
 #   :rocket: Getting Started 
@@ -66,17 +68,28 @@ These instructions will allow you to get a copy of the project on your local mac
 
 ##  :warning: Requirements 
 
+<p align="right"><a href="#project_name">back to top</a></p>
+
+
 ##  :gear: Run Application
+
+<p align="right"><a href="#project_name">back to top</a></p>
 
 ##  :test_tube: Tests
 
 To run tests, run the following command
+
+<p align="right"><a href="#project_name">back to top</a></p>
+
 
 #   :page_facing_up: License 
 
 Project Name is [LICENSE TYPE] Licensed. See ```LICENSE.md``` for more information.
 
 <br/>
+
+<p align="right"><a href="#project_name">back to top</a></p>
+
 
 # :octocat: Developers 
 
@@ -99,4 +112,5 @@ Developed with 💜 by [YOUR NAME]
 <a href="https://www.youtube.com/channel/[CHANNELID]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="right"><a href="#[PROJECTNAME]">back to top</a></p>
+<p align="right"><a href="#project_name">back to top</a></p>
+
