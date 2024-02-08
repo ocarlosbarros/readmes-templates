@@ -23,7 +23,7 @@
     * [Features](#heavy_check_mark-features)
     * [Screenshots](#camera-screenshots)
 * [Built With](#hammer_and_wrench-built-with)
-    * [Technologies and Libs](#computer-technologies-and-libs)
+    * [Technologies and NuGet Packages](#computer-technologies-and-libs)
 * [Getting Started](#rocket-getting-started)
     * [Requirements](#warning-requirements)
     * [Run Application](#gear-run-application)
