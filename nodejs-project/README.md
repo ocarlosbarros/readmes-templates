@@ -109,12 +109,12 @@ cd [PROJECT_FOLDER]
 3. Install dependencies
 
 ```
-dotnet restore
+npm install
 ```
 
 4. Run project
 ```
-dotnet run
+npm run dev
 ```
 
 
